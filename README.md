@@ -58,3 +58,33 @@ I am interested in **signal processing, image processing, electromagnetics, micr
 ## About This GitHub
 
 This GitHub contains my **engineering, scientific computing, image processing, and communication-related projects**, including both completed work and projects that I am currently developing as I progress through my studies.
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="https://github.com/MohammadrezaAfraz">
+  <img src="https://img.shields.io/badge/GitHub-MohammadrezaAfraz-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="mailto:afrazm48@gmail.com">
+  <img src="https://img.shields.io/badge/Email-afrazm48%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://t.me/MmdReza_Afraz">
+  <img src="https://img.shields.io/badge/Telegram-@MmdReza_Afraz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://instagram.com/afraz.mohammadreza">
+  <img src="https://img.shields.io/badge/Instagram-afraz.mohammadreza-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
