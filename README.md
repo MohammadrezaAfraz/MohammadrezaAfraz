@@ -23,6 +23,10 @@ I am interested in **signal processing, image processing, electromagnetics, micr
 
 - MATLAB
 - Python
+- CPP
+- HTML
+- CSS
+- JavaScript
 - COMSOL Multiphysics
 - OpenCV
 - Git & GitHub
