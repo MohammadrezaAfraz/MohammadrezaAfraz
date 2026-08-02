@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Reza Afraz
+# Hi, I'm Mohammadreza Afraz
 
 B.Sc. Electrical Engineering student (Communications Engineering) at **Iran University of Science and Technology (IUST)**.
 
